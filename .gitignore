@@ -1,0 +1,8 @@
+__pycache__/*
+*.wav
+*.txt
+*.osu
+*.mp3
+rngchord.py
+perm.py
+osuparse.py
